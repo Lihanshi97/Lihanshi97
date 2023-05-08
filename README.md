@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lihanshi aveesha</h1>
 <h3 align="center">As a self-learner in the ever-evolving world of information technology, I am constantly seeking new challenges and opportunities to expand my knowledge and skills.</h3>
-<h4>I'm an graduate at University of Ruhuna in Sri Lanka (Bachelor of science).</h4>
+<h4>------------------------------------------------------------------<br>
+  I'm an graduate at University of Ruhuna in Sri Lanka (Bachelor of science).</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lihanshi97&label=Profile%20views&color=0e75b6&style=flat" alt="lihanshi97" /> </p>
 
